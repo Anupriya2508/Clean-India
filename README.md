@@ -14,7 +14,6 @@ The Clean India Initiative Website is a community-driven platform aimed at addre
   - [Back-End Languages](#back-end-languages)
   - [Database](#database)
   - [Development Environment](#development-environment)
-  - [Additional Tools](#additional-tools)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -84,11 +83,7 @@ Creates an 'upload' folder to store user-uploaded images.
 
 Utilizes coordinates to pinpoint the exact location on maps.
 
-### Additional Features
 
-- **Clean UI/UX**: User-friendly interface for seamless navigation.
-- **Interactive Maps**: Integration of maps for visualizing polluted areas.
-- **Real-time Reporting**: Instant reporting and tracking of cleanliness initiatives.
 
 ## Tools and Technologies Used
 
@@ -120,52 +115,6 @@ To use the Clean India Initiative Website locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/clean-india-website.git
-
-
-Certainly! Here's an addition to the README, including a section on usage:
-
-markdown
-Copy code
-# Clean India Initiative Website
-
-The Clean India Initiative Website is a community-driven platform aimed at addressing and combatting pollution in our streets. This web application empowers users to actively participate in the cleanliness drive by reporting polluted areas and contributing to the overall improvement of their surroundings.
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-  - [Front-End Implementation](#front-end-implementation)
-  - [Back-End Implementation](#back-end-implementation)
-  - [Additional Features](#additional-features)
-- [Tools and Technologies Used](#tools-and-technologies-used)
-  - [Front-End Languages](#front-end-languages)
-  - [Back-End Languages](#back-end-languages)
-  - [Database](#database)
-  - [Development Environment](#development-environment)
-  - [Additional Tools](#additional-tools)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
-## Project Overview
-
-The Clean India Initiative Web Application is a platform designed to empower users to report and address dirty areas in their vicinity by connecting with the local municipal corporation. The application encourages civic responsibility and contributes to the Swach Bharath Mission.
-
-## Features
-
-...
-
-## Tools and Technologies Used
-
-...
-
-## Usage
-
-To use the Clean India Initiative Website locally, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/clean-india-website.git
-Set Up Database:
 
 2. **Install XAMPP or any other local server environment:**
 Import the SQL file provided in the database folder to set up the required tables.
