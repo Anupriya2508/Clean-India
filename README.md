@@ -75,7 +75,8 @@ Prompts users to choose an image file for upload. Displays a sample image upload
 
 Provides contact information for inquiries or feedback.
 
-![Screenshot (1111)](https://github.com/Anupriya2508/Clean-India/assets/89139657/e6eacf96-cd7f-46f8-88b2-acb689d3caa6)
+![Screenshot (1111)](https://github.com/Anupriya2508/Clean-India/assets/89139657/c76f22ef-d052-419f-8009-3b20f4fdca18)
+
 
 ### Back-End Implementation
 
