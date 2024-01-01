@@ -137,7 +137,7 @@ To use the Clean India Initiative Website locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/clean-india-website.git
+   git clone https://github.com/Anupriya2508/Clean-India
 
 2. **Install XAMPP or any other local server environment:**
 Import the SQL file provided in the database folder to set up the required tables.
@@ -148,7 +148,7 @@ Update the database connection details (username, password, database name).
 Run the Application:
 
 4. **Start your local server.**
-Visit http://localhost/clean-india-website/start.php in your browser.
+Visit http://localhost/clean-india-website/index.php in your browser.
 Explore and Contribute:
 
 5. **Create an account or log in if you already have one.**
