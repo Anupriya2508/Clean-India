@@ -25,43 +25,65 @@ The Clean India Initiative Web Application is a platform designed to empower use
 
 ### Front-End Implementation
 
-#### Initial Page (start.php)
+#### Initial Page (index.php)
 
 Warm welcome and information about the Swach Bharath Mission.
+![Screenshot (1100)](https://github.com/Anupriya2508/Clean-India/assets/89139657/8b3d1bd0-4ebf-40d4-83b7-8f2a1b505588)
 
 #### SignUp Page
 
 User registration with input for Email ID and password. Automatic generation of a unique username. Confirmation password for security. SignUp button to create an account.
 
+![Screenshot (1102)](https://github.com/Anupriya2508/Clean-India/assets/89139657/f55ba3ca-3787-4e22-b214-9f5be43c29e7)
+
+![Screenshot (1103)](https://github.com/Anupriya2508/Clean-India/assets/89139657/56c86cf3-1b23-422a-b0c1-38b8be20c802)
+
 #### Login Page
 
 Username and password entry for registered users. Option to recover password if forgotten. Error page for incorrect credentials.
+![Screenshot (1101)](https://github.com/Anupriya2508/Clean-India/assets/89139657/6d067e84-ae22-4e6f-94c5-07873537a857)
+
 
 #### Index Page (After Login)
 
 Welcomes the user after successful login. Provides options for reporting a dirty area.
 
+![Screenshot (1105)](https://github.com/Anupriya2508/Clean-India/assets/89139657/441f87ce-bb70-446f-8ba3-16e3c2de9bca)
+
 #### Upload Image Page
 
 Allows users to upload images of polluted areas. Requests location access for automatic geotagging.
+
+![Screenshot (1105)](https://github.com/Anupriya2508/Clean-India/assets/89139657/8356623d-f345-4416-a09e-aa5a7ad7508d)
+
 
 #### Location Detection Popup
 
 Asks for permission to access location for geotagging. Automatically captures latitude and longitude coordinates.
 
+![Screenshot (1106)](https://github.com/Anupriya2508/Clean-India/assets/89139657/14673e76-c3a3-4aa7-a582-940b7949d96b)
+
 #### Upload Page (upload.php)
 
 Prompts users to choose an image file for upload. Displays a sample image upload process. Thanks the user for contributing to the initiative.
+![Screenshot (1107)](https://github.com/Anupriya2508/Clean-India/assets/89139657/1af9e560-a859-4d7e-8618-cf7f9316d17c)
+![Screenshot (1108)](https://github.com/Anupriya2508/Clean-India/assets/89139657/4b7e44de-b751-40fa-a222-89d4dc6a4304)
+![Screenshot (1109)](https://github.com/Anupriya2508/Clean-India/assets/89139657/f2bfc2bd-38c8-4fe3-9c1f-6ca99fb0d3bb)
+
 
 #### Contact Us Page
 
 Provides contact information for inquiries or feedback.
+
+![Screenshot (1111)](https://github.com/Anupriya2508/Clean-India/assets/89139657/e6eacf96-cd7f-46f8-88b2-acb689d3caa6)
 
 ### Back-End Implementation
 
 #### Database
 
 MySQL relational database management system is used.
+
+![Screenshot (1113)](https://github.com/Anupriya2508/Clean-India/assets/89139657/4e38ed84-38d4-4a92-b0ee-1111cbfc0b4b)
 
 #### Tables
 
@@ -92,6 +114,7 @@ Utilizes coordinates to pinpoint the exact location on maps.
 - HTML5
 - CSS3
 - JavaScript
+- Bootstrap
 - jQuery
 
 ### Back-End Languages
